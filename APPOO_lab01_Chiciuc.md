@@ -1,3 +1,5 @@
+# OOP in JavaScript
+
 Even mentioning that JavaScript is an OOP language can provoke a big debate in the programming circle. Some would even go as far as blame you for calling it a 'programming language' and not a 'scripting language' (even though scripting languages are a subset of programming languages). In this article I will not try to start a flame war or to condemn other people's opinion about aspects of the current programming culture. Instead, I'll try to show the reader some interesting things that can be done with JavaScript.
 
 Of course the article will not focus solely on some cool tricks, it'll try to provide the reader with an understanding framework on which he can create new and innovative ways in which to program and think in JavaScript.
